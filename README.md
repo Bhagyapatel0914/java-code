@@ -1,6 +1,6 @@
 # java-code
 - Code of Data Structure and Algorithms
-- Beginner friendly and also consist sol advance leetcode Question
+- Beginner friendly and also consist sol of advance leetcode Question
 - Repo consist of optimized code & also provide the solution of 
 - advance Question made as easy as possible 
 - Connect with me :- 
