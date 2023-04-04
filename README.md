@@ -7,4 +7,4 @@
 - Instagram : http://surl.li/gbtjq
 - Twitter : http://surl.li/gbtmg
 - LinkedIn : http://surl.li/gbtof
-Note : you may find me less active on socials 
+- Note : you may find me less active on socials 
